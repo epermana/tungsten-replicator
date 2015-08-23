@@ -1,0 +1,32 @@
+# Binary and Source Releases #
+
+| **Filename** | **Summary** | **Release** | **Date** | **Size** |
+|:-------------|:------------|:------------|:---------|:---------|
+| **[tungsten-replicator-oss-4.0.1-123.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.1-123.tar.gz)** | Tungsten Replicator 4.0.1  Binary Build  | **GA**      | 2015-04-17 | 25 MB    |
+| **[tungsten-replicator-oss-4.0.1-123-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.1-123-src.tar.gz)** |Tungsten Replicator 4.0.1 Source Build  | **GA**      | 2015-04-17 | 29 MB    |
+| **[tungsten-replicator-oss-4.0.0-18.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18.tar.gz)** | Tungsten Replicator 4.0.0  Binary Build  | GA          | 2015-04-17 | 29 MB    |
+| **[tungsten-replicator-oss-4.0.0-18-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-oss-4.0.0-18-src.tar.gz)** |Tungsten Replicator 4.0.0 Source Build  | GA          | 2015-04-17 | 29 MB    |
+| [tungsten-replicator-3.0.1-64.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.1-64.tar.gz) | Tungsten Replicator 3.0.1 Binary Build  | GA for MySQL only | 2014-12-19 | 26.9 MB  |
+| [tungsten-replicator-3.0.1-64-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.1-64-src.tar.gz) | Tungsten Replicator 3.0.1 Source Build  | GA for MySQL only | 2014-12-19 | 31.3 MB  |
+| [tungsten-replicator-3.0.0-524.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.0-524.tar.gz) | Tungsten Replicator 3.0.0 Binary Build  | GA          | 2014-11-18 | 26.9 MB  |
+| [tungsten-replicator-3.0.0-524-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-3.0.0-524-src.tar.gz) | Tungsten Replicator 3.0.0 Source Build  | GA          | 2014-11-18 | 30.4 MB  |
+| [tungsten-replicator-2.2.1-403.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-2.2.1-403.tar.gz)         | Tungsten Replicator 2.2.1 Binary Build  | Old         | 2014-04-29 | 29.2 MB  |
+| [tungsten-replicator-2.2.1-403-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-2.2.1-403-src.tar.gz) | Tungsten Replicator 2.2.1 Source Build  | Old         | 2014-04-29 | 32.0 MB  |
+| [tungsten-replicator-2.2.0-292.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.2.0-292.tar.gz)         | Tungsten Replicator 2.2.0 Binary Build  | Old         | 2013-12-31 | 28.8 MB  |
+| [tungsten-replicator-2.2.0-292-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.2.0-292-src.tar.gz) | Tungsten Replicator 2.2.0 Source Build  | Old         | 2013-12-31 | 31.5 MB  |
+| [tungsten-replicator-2.1.2-44.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.1.2-44.tar.gz)           | Tungsten Replicator 2.1.2 Binary Build  | Old         | 2013-11-28 | 28.9 MB  |
+| [tungsten-replicator-2.1.2-44-src.tar.gz](http://downloads.tungsten-replicator.org/download.php?file=tungsten-replicator-2.1.2-44-src.tar.gz)   | Tungsten Replicator 2.1.2 Source Build  | Old         | 2013-11-28 | 31.4 MB  |
+| [tungsten-replicator-2.1.0-343.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.1.2-30.tar.gz)          | Tungsten Replicator 2.1.0 Binary Build  | Old         | 2013-06-14 | 28.8 MB  |
+| [tungsten-replicator-2.1.0-343-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.1.0-343-src.tar.gz) | Tungsten Replicator 2.1.0 Source Build  | Old         | 2013-06-14 | 31.3 MB  |
+| [tungsten-replicator-2.0.7-278.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.7-278.tar.gz)         | Tungsten Replicator 2.0.7 Binary Build  | Old         | 2013-02-19 | 26.6 MB  |
+| [tungsten-replicator-2.0.7-278-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.7-278-src.tar.gz) | Tungsten Replicator 2.0.7 Source Build  | Old         | 2013-02-19 | 28.7 MB  |
+| [tungsten-replicator-2.0.6.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.6.tar.gz)                 | Tungsten Replicator 2.0.6 Binary Build  | Old         | 2012-10-29 | 24.2 MB  |
+| [tungsten-replicator-2.0.6-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.6-src.tar.gz)         | Tungsten Replicator 2.0.6 Source Build  | Old         | 2012-10-29 | 28.2 MB  |
+| [tungsten-replicator-2.0.5.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.5.tar.gz)                 | Tungsten Replicator 2.0.5 Binary Build  | Old         | 2012-02-29 | 25.0 MB  |
+| [tungsten-replicator-2.0.5-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.5-src.tar.gz)         | Tungsten Replicator 2.0.5 Source Build  | Old         | 2012-02-29 | 28.6 MB  |
+| [tungsten-replicator-2.0.4.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.4.tar.gz)                 | Tungsten Replicator 2.0.4 Binary Build  | Old         | 2011-09-06 | 26.6 MB  |
+| [tungsten-replicator-2.0.4-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.4-src.tar.gz)         | Tungsten Replicator 2.0.4 Source Build  | Old         | 2011-09-06 | 26.8 MB  |
+| [tungsten-replicator-2.0.3-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.3-src.tar.gz)         | Tungsten Replicator 2.0.3 Source Build  | Old         | 2011-06-03 | 26.8 MB  |
+| [tungsten-replicator-2.0.2.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.2.tar.gz)                 | Tungsten Replicator 2.0.2 Binary Build  | Old         | 2011-04-19 | 21.6 MB  |
+| [tungsten-replicator-2.0.2-src.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.2-src.tar.gz)         | Tungsten Replicator 2.0.2 Source Build  | Old         | 2011-04-19 | 26.0 MB  |
+| [tungsten-replicator-2.0.1.tar.gz](http://tungsten-replicator.googlecode.com/files/tungsten-replicator-2.0.1.tar.gz)                 | Tungsten Replicator 2.0.1 Binary Build  | Old         | 2011-04-06 | 21.8 MB  |
